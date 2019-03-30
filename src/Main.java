@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("Hello World!");
-        System.out.println("agent2's new task");
+        System.out.println("dummy agent test");
     }
 }
